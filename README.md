@@ -1,6 +1,6 @@
 # VJumpNow
 
-A browser-based video game you can play online.
+A browser-based video game you can play online about a green fire who needs to jump to escape the others.
 
 ## 🎮 Play the Game
 
