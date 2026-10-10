@@ -39,7 +39,7 @@ VJumpNow is hosted on **Cloudflare Pages**.
 
 ## 📜 License
 
-No license information is specified in this README. Check the project's repository for licensing details.
+BSD-3-Clause LICENSE
 
 ---
 
